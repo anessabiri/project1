@@ -1,0 +1,12 @@
+md5: 60a1165f8e6d90e8aeec519cb6476199
+frozen: true
+deps:
+- path: dataset
+  repo:
+    url: https://github.com/anessabiri/data3
+    rev_lock: f797687f53b718a2b17e4971c7be4d7d8bbb8e82
+outs:
+- md5: d751713988987e9331980363e24189ce.dir
+  size: 0
+  nfiles: 0
+  path: dataset
